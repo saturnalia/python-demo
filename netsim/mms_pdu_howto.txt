@@ -1,0 +1,25 @@
+How to create a canned MMS PDU for Netsim from a .mms file 
+------------------------------------------------------------
+
+a) Netsim relies on a file named StoredMMS.bin for MMS loopback and MMS 
+submission. This file is created by Netsim while doing MMS loopback.
+
+b) Take the .mms file and open it in a hex editor, eg. the hex editor 
+provided by Visual Studio 6.  Now, you need to transform this to 
+StoredMMS.bin by adding the HTTP part at the start.
+
+c) If the .mms file is less than 2 to 3 KB then prepend the simple header in 
+mms_StandardHTTPHeader.bin at the beginning of the .mms file and save the result 
+as StoredMMS.bin. 
+
+d) If the MMS is larger then Netsim will send it in chunks of 2048 bytes at a 
+time.  In that case, you need to prepend the chunked HTTP header given by 
+mms_ChunkedHTTPHeader.bin. 
+
+e) Once StoredMMS.bin is created you can use the 'Canned MMS Pdu' option in Netsim
+to generate and send a push message.  
+
+Note that StoredMMS.bin will get overwritten if you send a MMS from PhoneSim
+in netsim loopback mode.
+
+
