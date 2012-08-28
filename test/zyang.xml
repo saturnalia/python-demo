@@ -1,0 +1,15 @@
+<xml>
+	<phonebook>
+		<name></name>
+		<phone></phone>
+		<mobile></mobile>
+		<description></description>
+	</phonebook>
+	<registration>
+		<name></name>
+		<acc></acc>
+		<pwd></pwd>
+		<answer></answer>
+		<description></description>
+	<registration>
+</xml>

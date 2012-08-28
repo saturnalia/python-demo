@@ -1,0 +1,24 @@
+http://www.baidu.com: 百度一下，你就知道      
+http://www.baidu.com/: 百度一下，你就知道      
+http://www.baidu.com/search/baidukuijie_mp.html: 百度快捷官方下载
+http://www.baidu.com/gaoji/preferences.html: 搜索设置      
+http://home.baidu.com: 关于百度
+http://map.baidu.com: 鐧惧害鍦板浘
+http://www.baidu.com/more/: 百度产品大全
+http://zhidao.baidu.com: 百度知道——全球最大中文互动问答平台      
+http://e.baidu.com/?refer=888:  鐧惧害鎺ㄥ箍瀹樻柟缃戠珯 
+http://image.baidu.com: 百度图片——全球最大中文图片库  
+http://www.baidu.com/cache/sethelp/index.html: 把百度设为主页--帮助中心页面
+https://passport.baidu.com/v2/?reg&regType=1&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F: 鐧惧害甯愬彿娉ㄥ唽
+http://tieba.baidu.com: 贴吧&mdash;&mdash;全球最大中文社区 
+http://video.baidu.com: 百度视频搜索&mdash;&mdash;全球最大中文视频搜索引擎
+http://www.baidu.com/duty/: 百度免责声明
+https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F: 鐧惧害甯愬彿鐧诲綍
+http://wenku.baidu.com: 百度文库——文档分享平台
+http://www.hao123.com: hao123_上网从这里开始
+http://mp3.baidu.com: 百度MP3——全球最大中文音乐搜索平台
+http://baike.baidu.com: 百度百科——全球最大中文百科全书
+http://top.baidu.com: 百度搜索风云榜      
+http://ir.baidu.com: Baidu | Business Overview
+http://news.baidu.com: 百度新闻搜索——全球最大的中文新闻平台
+http://www.miibeian.gov.cn: Index
